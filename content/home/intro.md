@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+ Hey! I'm **Utkarsh**, a master student at Uni Bonn
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my [CV](/about/) and blog posts below
