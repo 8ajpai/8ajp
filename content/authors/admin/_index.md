@@ -37,7 +37,7 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:s7utbajp@uni-bonn.de".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/8ajpai
 
 # Uncomment below for Github link
 #- icon: github
