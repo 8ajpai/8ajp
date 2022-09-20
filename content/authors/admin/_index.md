@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Utkarsh Bajpai (उत्कर्ष)
+title: Utkarsh Bajpai
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Master Student
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Organizations/Affiliations
 organizations:
