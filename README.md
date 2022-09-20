@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6bc442a-e162-48c4-ac94-00c92968ddb8/deploy-status)](https://app.netlify.com/sites/8ajpai/deploys)
+
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
 # [Hugo Academic Blog Theme](https://github.com/wowchemy/hugo-blog-theme)
