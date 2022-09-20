@@ -18,5 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
- Hey! I'm **Utkarsh**, a master student at Uni Bonn
- **  **I like Reinforcement Learning!
+ Hey! I'm **Utkarsh**, a master student at Uni Bonn  
+ *I like Reinforcement Learning!*
