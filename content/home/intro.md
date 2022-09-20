@@ -19,5 +19,4 @@ author: admin
 ---
 
  Hey! I'm **Utkarsh**, a master student at Uni Bonn
-
-Check out my [CV](/about/) and blog posts below
+ I like Reinforcement Learning!
