@@ -3,3 +3,4 @@
 ## Visit : 💻 [utkarshbajpai.com](https://utkarshbajpai.com)
 
 I made this by adapting the [Hugo Academic Blog Theme](https://github.com/wowchemy/hugo-blog-theme)
+Favicon : <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Zulfa Mahendra - Flaticon</a>
