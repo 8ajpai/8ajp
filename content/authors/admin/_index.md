@@ -18,13 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotic systems, autonomous navigation and reinforcement learning.
-
-#interests:
-#- Artificial Intelligence
-#- Control Systems
-#- Robotics
-
+bio: My research interests are Robotics, Controls and Machine Learning. I'm passionate about using my research to drive growth and bring positive change in society.
 
 
 # Social/Academic Networking
