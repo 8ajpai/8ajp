@@ -6,7 +6,7 @@ title: Utkarsh Bajpai
 superuser: true
 
 # Role/position
-role: Master Student
+role: Master Student in "Mobile Sensing and Robotics"
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: Uni Bonn
+  - name: University of Bonn
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,9 +40,9 @@ social:
     link: https://twitter.com/8ajpai
 
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/8ajpai
+- icon: github
+  icon_pack: fab
+  link: https://github.com/8ajpai
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
