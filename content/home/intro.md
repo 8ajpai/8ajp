@@ -18,5 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
- Hey! I'm **Utkarsh**, a master student at Uni Bonn  
+ Hey! I'm **Utkarsh**, a master student majoring in "Mobile Sensing and Robotics" at Uni Bonn  
  *I like Robots, Controls and Reinforcement Learning!*
