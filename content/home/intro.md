@@ -18,4 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
- Hey! I'm **Utkarsh**. I am passionate about Robots, Controls and Machine Learning. 
+My research interests are Robotics, Controls and Machine Learning. I'm passionate about using my research to drive growth and bring positive change in society.
