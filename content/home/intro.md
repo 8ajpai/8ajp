@@ -18,4 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
- Hey! I'm **Utkarsh**. I like Robots, Controls and Machine Learning.
+ Hey! I'm **Utkarsh**. I like Robots, Controls and Machine Learning. 
