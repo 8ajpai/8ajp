@@ -35,6 +35,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/8ajpai
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/8ajpai/
 
 # Uncomment below for Github link
 
